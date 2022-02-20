@@ -1,12 +1,15 @@
-/*Navbar Section*/
-.container {
-  max-width: 700px;
-}
-
 .navbar .container h1 {
   font-size: 30px;
 }
 
+.container {
+  max-width: 700px;
+}
+
 i {
   cursor: pointer;
+}
+
+#delete-all {
+  display: none;
 }
